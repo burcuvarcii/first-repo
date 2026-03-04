@@ -1,2 +1,2 @@
 # first-repo
-this repository is created to practice GitHub and basic programming concepts.
+This repository contains simple Java programing exercises.
